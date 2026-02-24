@@ -1,3 +1,5 @@
+vim.cmd.colorscheme("nord")
+
 vim.wo.number = true
 vim.wo.relativenumber = true
 
