@@ -1,1 +1,1 @@
-
+print("autocmd OK")

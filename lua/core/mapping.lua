@@ -1,1 +1,1 @@
-
+print("mapping OK")
